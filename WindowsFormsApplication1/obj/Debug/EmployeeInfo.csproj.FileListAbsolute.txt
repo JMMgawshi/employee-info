@@ -1,0 +1,21 @@
+c:\users\usb\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\EmployeeInfo.csprojResolveAssemblyReference.cache
+c:\users\usb\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\usb\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\EmployeeInfo.csproj.GenerateResource.Cache
+c:\users\usb\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\usb\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\usb\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\usb\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\usb\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\usb\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.new_employee_form.resources
+C:\Users\USB\Documents\Visual Studio 2013\Projects\EmployeeInfo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\USB\Documents\Visual Studio 2013\Projects\EmployeeInfo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\USB\Documents\Visual Studio 2013\Projects\EmployeeInfo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\USB\Documents\Visual Studio 2013\Projects\EmployeeInfo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\USB\Documents\Visual Studio 2013\Projects\EmployeeInfo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\USB\Documents\Visual Studio 2013\Projects\EmployeeInfo\WindowsFormsApplication1\obj\Debug\EmployeeInfo.csprojResolveAssemblyReference.cache
+C:\Users\USB\Documents\Visual Studio 2013\Projects\EmployeeInfo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.new_employee_form.resources
+C:\Users\USB\Documents\Visual Studio 2013\Projects\EmployeeInfo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USB\Documents\Visual Studio 2013\Projects\EmployeeInfo\WindowsFormsApplication1\obj\Debug\EmployeeInfo.csproj.GenerateResource.Cache
+C:\Users\J.M.Almgawshi\Downloads\employee-info-master\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\J.M.Almgawshi\Downloads\employee-info-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\J.M.Almgawshi\Downloads\employee-info-master\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
